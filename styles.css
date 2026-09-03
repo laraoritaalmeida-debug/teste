@@ -1,7 +1,12 @@
 div {
     background-color: black;
-    color:aliceblue;
+    color: aliceblue;
 }
-body{
+
+body {
     background-color: blueviolet;
+}
+
+img {
+    width: 20px;
 }
